@@ -1,0 +1,26 @@
+{
+  "name": "EconomyBot",
+  "version": "1.0.0",
+  "description": "nrc",
+  "main": "narcosmain.js",
+  "scripts": {
+    "start": "node narcosmain.js"
+  },
+  "author": "Narcos Code",
+  "license": "LSC",
+  "keywords": [   
+    "Economy",  
+    "discord.js"
+    
+  ],
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "quick.eco": "^2.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://discord.gg/ZBmqym9JhG"
+  }
+}
